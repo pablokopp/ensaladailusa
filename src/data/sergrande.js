@@ -1,5 +1,5 @@
 import logoTitulo from "../images/sergrandeLogo.png";
-import sergrandeBoton from "../images/sergrandeBoton.png";
+import sergrandeBoton from "../images/sergrandeBoton1.png";
 import sergrandeflyer from "../images/sergrandeFlyer.png";
 
 export const sergrande = {

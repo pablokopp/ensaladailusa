@@ -1,4 +1,4 @@
-import davidlavaBoton from "../images/davidlavaBoton.png";
+import davidlavaBoton from "../images/davidlavaBoton1.png";
 import davidlavaflyer from "../images/davidlavaFlyer.jpeg";
 import logoTitulo from "../images/davidLavaLogo.png";
 

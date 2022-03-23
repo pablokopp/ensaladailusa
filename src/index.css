@@ -78,7 +78,9 @@ body {
   margin: 0;
   padding: 0;
 }
-
+a {
+  text-decoration: none;
+}
 .container-programa,
 .container-obra,
 .container-portada {
@@ -104,13 +106,19 @@ body {
   width: 100%;
 }
 .container-portada p {
-  font-weight: 400;
+  margin: 0 auto 1rem;
+  font-weight: 600;
+  padding: 0 1rem;
 }
 .container-portada .portada img {
-  width: 250px;
-  padding: 1rem;
+  width: 300px;
 }
 
+.portada-agradecimiento {
+  font-weight: 400;
+  font-size: 0.9rem;
+  margin-top: 2rem;
+}
 .container-botonObra {
   margin: 1rem 0;
   width: 250px;
@@ -118,7 +126,9 @@ body {
 .container-botonObra img {
   width: 100%;
   border-radius: 20px;
+  box-shadow: 0px 9px 15px 0px rgb(0 0 0 / 28%);
 }
+
 .container-title {
   padding: 1rem;
   max-width: 400px;

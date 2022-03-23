@@ -1,4 +1,4 @@
-import antesdequetemuerasBoton from "../images/antesdequetemuerasBoton.png";
+import antesdequetemuerasBoton from "../images/antesdequetemuerasBoton1.png";
 import flyer from "../images/antesdequetemuerasFlyer.png";
 import logoTitulo from "../images/antesdequetemuerasLogo.png";
 
