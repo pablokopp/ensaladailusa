@@ -36,7 +36,7 @@ export const lineal = {
         },
         {
           nombre: "Candela Ciaramellano",
-          iglink: "https://www.instagram.com/canciaramellano_",
+          iglink: "https://www.instagram.com/can.ciaramellano/",
           weblink: null,
         },
         {
